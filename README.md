@@ -10,9 +10,10 @@ I'm an enthusiastic IT undergraduate passionate about web development, server ma
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev/icons?i=mysql)
 [![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev/icons?i=php)
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev/icons?i=java)
-
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev/icons?i=linux)
+[![EC2](https://skillicons.dev/icons?i=aws)](https://skillicons.dev/icons?i=aws)
 - 🖥️ Experienced in hardware and software troubleshooting, including remote diagnostics.
-- 🌐 Familiar with Linux server management [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev/icons?i=linux), web server administration, and proficient in Amazon EC2 (Elastic Compute Cloud) services within Amazon Web Services [![EC2](https://skillicons.dev/icons?i=aws)](https://skillicons.dev/icons?i=aws).
+- 🌐 Familiar with Linux server management , web server administration, and proficient in Amazon EC2 (Elastic Compute Cloud) services within Amazon Web Services .
 - 🛠️ Effectively manage Teamspeak servers, including integration and management with Sinusbot.
 - 📡 Knowledgeable in various aspects of software and hardware, encompassing PC building expertise and adept software selection.
 
