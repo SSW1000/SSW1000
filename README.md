@@ -14,4 +14,8 @@ I'm an enthusiastic IT undergraduate passionate about web development, server ma
 - 🛠️ Manage Teamspeak servers effectively
 - 📡 Knowledgeable in various aspects of software and hardware
 
+#### Connect with me:
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/supun.sandeepa.100/)
+
 Feel free to reach out if you have any queries, collaboration opportunities, or just want to chat! 😊
