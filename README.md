@@ -2,20 +2,18 @@
 
 I'm an enthusiastic IT undergraduate passionate about web development, server management, troubleshooting, and more. Here's a glimpse of my skills:
 
+[![My Skills](https://skillicons.dev/icons?i=html,php,css,javascript,java,bootstrap)](https://skillicons.dev)
+
 - 💻 Proficient in 
-  [<img src="https://skillicons.dev//packs/00001-html.svg" height="30"/>](https://skillicons.dev/pack/00001-web-development)
-  [<img src="https://skillicons.dev//packs/00002-php.svg" height="30"/>](https://skillicons.dev/pack/00002-php)
-  [<img src="https://skillicons.dev//packs/00003-css.svg" height="30"/>](https://skillicons.dev/pack/00003-css)
-  [<img src="https://skillicons.dev//packs/00005-javascript.svg" height="30"/>](https://skillicons.dev/pack/00005-javascript)
-  [<img src="https://skillicons.dev//packs/00009-java.svg" height="30"/>](https://skillicons.dev/pack/00009-java)
-  [<img src="https://skillicons.dev//packs/00008-bootstrap.svg" height="30"/>](https://skillicons.dev/pack/00008-bootstrap)
-- 🖥️ Experienced in software and hardware troubleshooting
-- 🌐 Familiar with Linux server management and web server administration
-- 🛠️ Manage Teamspeak servers effectively
-- 📡 Knowledgeable in various aspects of software and hardware
+  [<img src="https://skillicons.dev/icons/html.svg" height="30"/>](https://skillicons.dev)
+  [<img src="https://skillicons.dev/icons/php.svg" height="30"/>](https://skillicons.dev)
+  [<img src="https://skillicons.dev/icons/css.svg" height="30"/>](https://skillicons.dev)
+  [<img src="https://skillicons.dev/icons/javascript.svg" height="30"/>](https://skillicons.dev)
+  [<img src="https://skillicons.dev/icons/java.svg" height="30"/>](https://skillicons.dev)
+  [<img src="https://skillicons.dev/icons/bootstrap.svg" height="30"/>](https://skillicons.dev)
 
 #### Connect with me:
 
-[![Facebook](https://skillicons.dev//packs/00015-facebook.svg)](https://web.facebook.com/supun.sandeepa.100/)
+[![Facebook](https://skillicons.dev/icons/facebook.svg)](https://web.facebook.com/supun.sandeepa.100/)
 
 Feel free to reach out if you have any queries, collaboration opportunities, or just want to chat! 😊
