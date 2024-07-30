@@ -17,12 +17,13 @@ I'm an enthusiastic IT undergraduate passionate about web development, server ma
 [![EC2](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/ec2/)
 
 
--🖥️ Experienced in hardware and software troubleshooting, including remote diagnostics.
--🌐 Familiar with Linux server management, web server administration, and proficient in Amazon EC2 (Elastic Compute Cloud) services within Amazon Web Services.
--🛠️ Effectively manage Teamspeak servers, including integration and management with Sinusbot.
--📱 Experienced in developing mobile apps using Flutter, with backend development skills in Python (Flask) and PocketBase.
--💻 Proficient in Python for desktop applications, showcasing a range of experience in both mobile and desktop environments.
--📡 Knowledgeable in various aspects of software and hardware, encompassing PC building expertise and adept software selection.
+- 🖥️ Experienced in hardware and software troubleshooting, including remote diagnostics.
+- 🌐 Familiar with Linux server management, web server administration, and proficient in Amazon EC2 (Elastic Compute Cloud) services within Amazon Web Services.
+- 🛠️ Effectively manage Teamspeak servers, including integration and management with Sinusbot.
+- 📱 Experienced in developing mobile apps using Flutter, with backend development skills in Python (Flask) and PocketBase.
+- 💻 Proficient in Python for desktop applications, showcasing a range of experience in both mobile and desktop environments.
+- 📡 Knowledgeable in various aspects of software and hardware, encompassing PC building expertise and adept software selection.
+
 
 #### Get in Touch
 
