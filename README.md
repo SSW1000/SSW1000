@@ -1,7 +1,6 @@
 ### Hi there, I'm Supun Sandeepa Wimalarathne! 👋
 
-I'm an enthusiastic IT undergraduate passionate about web development, server management, troubleshooting, and mobile app development. Here's a glimpse of my skills:
-
+I'm an enthusiastic IT undergraduate passionate about web development, server management, cloud computing, and mobile app development. I enjoy solving technical challenges and continuously exploring new technologies that make systems faster, smarter, and more reliable.
 
 - 💻 Proficient in 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -17,12 +16,17 @@ I'm an enthusiastic IT undergraduate passionate about web development, server ma
 [![EC2](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/ec2/)
 
 
-- 🖥️ Experienced in hardware and software troubleshooting, including remote diagnostics.
-- 🌐 Familiar with Linux server management, web server administration, and proficient in Amazon EC2 (Elastic Compute Cloud) services within Amazon Web Services.
-- 🛠️ Effectively manage Teamspeak servers, including integration and management with Sinusbot.
-- 📱 Experienced in developing mobile apps using Flutter, with backend development skills in Python (Flask) and PocketBase.
-- 💻 Proficient in Python for desktop applications, showcasing a range of experience in both mobile and desktop environments.
-- 📡 Knowledgeable in various aspects of software and hardware, encompassing PC building expertise and adept software selection.
+### Cloud Experience  
+I have hands-on experience working with AWS, Google Cloud Platform (GCP), and Microsoft Azure. My work includes managing and deploying virtual machines, configuring web servers, and ensuring that production environments run smoothly and reliably.  
+
+### Technical Expertise  
+I’m skilled in both hardware and software troubleshooting, performing remote diagnostics, and maintaining stable performance across different systems and platforms.  
+
+### App and Backend Development  
+I have developed mobile applications using Flutter and built backends with Python (Flask) and PHP. My experience includes integrating APIs, managing databases, and ensuring seamless communication between front-end and back-end systems.  
+
+### Versatile Development Background  
+I enjoy turning ideas into working solutions, whether it’s a desktop application written in Python or a full-stack web project. My main focus is always on creating efficient, secure, and user-friendly systems that solve real problems.  
 
 
 #### Get in Touch
