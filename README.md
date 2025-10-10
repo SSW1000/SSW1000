@@ -2,7 +2,8 @@
 
 I'm an enthusiastic IT undergraduate passionate about web development, server management, cloud computing, and mobile app development. I enjoy solving technical challenges and continuously exploring new technologies that make systems faster, smarter, and more reliable.
 
-- 💻 Proficient in 
+### Technical Skills  
+
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
